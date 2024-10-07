@@ -3814,7 +3814,7 @@ li.footer-nav-item a {
 .scroll-inner {
   display: inline-block;
   width: 100%;
-  padding-left: 119px;
+/*   padding-left: 119px; */
 }
 
 .scroll-image {
